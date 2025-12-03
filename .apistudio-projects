@@ -1,0 +1,19 @@
+projects:
+  Datapower-API-Gateway:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1764760076062
+  Datapower-Nano-Gateway:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1764760076067
+  Webmethods-API-Gateway:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1764760076069
