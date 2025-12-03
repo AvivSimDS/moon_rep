@@ -17,3 +17,7 @@ projects:
       - sample
       - API
     lastUpdated: 1764760076069
+  infermedica-medical-apis-wrapper:
+    description: infermedica-medical-apis-wrapper
+    tags: []
+    lastUpdated: 1764763771439
