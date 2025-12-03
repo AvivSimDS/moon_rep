@@ -21,3 +21,9 @@ projects:
     description: infermedica-medical-apis-wrapper
     tags: []
     lastUpdated: 1764763771439
+  infermedica-api-project:
+    description: >-
+      https://api.infermedica.com/v3/swagger.json into dev studio and starting
+      to implement doctor bot demo from there
+    tags: []
+    lastUpdated: 1764782401335
